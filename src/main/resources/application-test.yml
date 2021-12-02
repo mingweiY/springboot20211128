@@ -1,0 +1,6 @@
+server:
+  port: 8084
+
+person:
+  name: ymw
+  age: 25

@@ -1,0 +1,8 @@
+server:
+  port: 8081
+person:
+  name: ymw
+  age: 25
+#spring:
+#  profiles:
+#    active: dev
